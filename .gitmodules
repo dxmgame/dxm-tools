@@ -1,0 +1,3 @@
+[submodule "dxm"]
+	path = dxm
+	url = https://github.com/dxmgame/dxm.git

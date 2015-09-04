@@ -1,0 +1,12 @@
+<platform_config>	
+	<!-- 从third/n360中获取 -->
+	<pay_order>http://passport.176sy.com/account/createOrder</pay_order>
+	<pay>http://www.176sy.com/index.php/MobileRecharge/index</pay>
+	<bbs>http://bbs.cw.176sy.com/forum.php</bbs>
+	<faq>http://bbs.cw.176sy.com/forum.php</faq>
+	<register>http://passport.176sy.com/account/register</register>
+	<login>http://passport.176sy.com/account/login</login>
+	<verify>http://passport.176sy.com/account/verifySession</verify>
+	<platform_id>0</platform_id>
+	<platform_name>official_android</platform_name>
+</platform_config>

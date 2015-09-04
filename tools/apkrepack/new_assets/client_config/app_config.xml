@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app>
+	<!-- mob key and chennel_id-->
+	<mob app_key="52c8c8be56240ba1661fc7a4" channel_id="official_default" />
+	<!-- pay channel id -->
+	<pay_channel_id>0</pay_channel_id>
+</app>

@@ -1,0 +1,9 @@
+﻿<version>
+    <update_urls>
+        <url>http://221.123.179.18/qmqh_client/update/wan/update.php</url>
+    </update_urls>
+    <bin_version>1</bin_version>
+    <res_version>2</res_version>
+    <res_fix_version>1625</res_fix_version>
+    <bin_fix_version>606</bin_fix_version>
+</version>

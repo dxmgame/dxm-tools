@@ -1,0 +1,6 @@
+﻿<version>
+    <update_urls>
+        <url>http://update.hh.176sy.com/update/wan/update.php</url>		
+    </update_urls>
+    <need_uncompress_apk>false</need_uncompress_apk>
+</version>

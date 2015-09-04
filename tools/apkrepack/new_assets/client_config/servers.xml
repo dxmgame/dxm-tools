@@ -1,0 +1,5 @@
+<servers_config>
+    <servers>
+        <server id="1" area="140001" name="版本发布测试" ip="61.130.7.153" port="8110" realm="0" hot="1" state="2"/>
+    </servers>
+</servers_config>

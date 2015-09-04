@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Font>font/luoliti.ttf</Font>
+	<Debug>true</Debug>
+	<FPS>false</FPS>
+	<AdaptScreen>true</AdaptScreen>
+	<Update>false</Update>
+</Data>
